@@ -2,7 +2,7 @@
 
 ### § 34
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procedurálny návrh
 >
 > (1) Poslanci majú právo podávať procedurálny návrh, ktorý sa týka spôsobu prerokúvania veci, časového a vecného postupu rokovania národnej rady s výnimkou hlasovania o veci samej. Vystúpenie poslanca, v ktorom podáva procedurálny návrh, môže trvať najviac jednu minútu.
@@ -13,7 +13,7 @@ Ustanovenie § 34 vymedzuje procedurálny návrh ako osobitný, procesne zjednod
 
 ### § 35
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Skončenie rozpravy
 >
 > (1) Ak v rozprave vystúpili všetci prihlásení rečníci, predsedajúci rozpravu skončí.
@@ -30,7 +30,7 @@ Hlasovanie na schôdzach národnej rady
 
 ### § 36
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Národná rada rozhoduje o každom návrhu hlasovaním. Hlasovanie sa spravidla uskutoční každý rokovací deň o 11. hodine a o 17. hodine, ak národná rada nerozhodne bez rozpravy inak.
 >
 > (2) Pred hlasovaním na žiadosť aspoň dvoch poslaneckých klubov alebo na návrh predsedu národnej rady predsedajúci preruší rokovanie schôdze národnej rady a určí čas najmenej päť minút na poradu poslaneckých klubov. Po porade poslaneckých klubov môže jeden poverený člen poslaneckého klubu informovať o stanovisku poslaneckého klubu ku všetkým bodom programu, ktoré sú zaradené na hlasovanie v príslušnom hlasovacom bloku; informácia nesmie trvať dlhšie ako štyri minúty.
@@ -47,7 +47,7 @@ Nadpis "Hlasovanie na schôdzach národnej rady" otvára samostatný oddiel štv
 
 ### § 37
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak boli k návrhu podané pozmeňujúce alebo doplňujúce návrhy, hlasuje sa najskôr o nich, a to v poradí, v akom boli podané. Hlasovanie o pozmeňujúcich a doplňujúcich návrhoch uvedených v správe výboru alebo v spoločnej správe výborov má prednosť pred ostatnými návrhmi podanými v rozprave. Ak prijatý pozmeňujúci alebo doplňujúci návrh vylučuje ďalšie pozmeňujúce alebo doplňujúce návrhy, už sa o nich nehlasuje. Ak poslanec vylúčenie spochybní, národná rada rozhodne bez rozpravy, či sa týmito návrhmi bude zaoberať.
 >
 > (2) Ak je na platné uznesenie národnej rady potrebný súhlas nadpolovičnej väčšiny všetkých poslancov35) alebo ak je v prípadoch ustanovených ústavou potrebný súhlas aspoň trojpätinovej väčšiny všetkých poslancov,36) národná rada môže schváliť pozmeňujúce alebo doplňujúce návrhy len takouto väčšinou.
@@ -60,7 +60,7 @@ Ustanovenie § 37 upravuje poradie a spôsob hlasovania o pozmeňujúcich a dopl
 
 ### § 38
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) O procedurálnych návrhoch (§ 34) sa hlasuje bez rozpravy.
 >
 > (2) O procedurálnom návrhu, ktorý má zrejmú podporu národnej rady, sa môže rozhodnúť aj bez hlasovania. V takom prípade sa predsedajúci poslancov opýta, či niektorý z nich požaduje hlasovanie. Ak čo len jeden poslanec požaduje hlasovať o návrhu, postupuje sa podľa § 39.
@@ -75,7 +75,7 @@ Ustanovenie nadväzuje na § 34 a upravuje osobitný, zrýchlený režim rozhodo
 
 ### § 39
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Hlasovanie je verejné alebo tajné.
 >
 > (2) Verejne sa hlasuje použitím technického zariadenia, zdvihnutím ruky, použitím hlasovacích lístkov alebo iným spôsobom, na ktorom sa uznesie národná rada. Pri hlasovaní použitím technického zariadenia vykoná poslanec hlasovanie počas intervalu určeného na hlasovanie, ktorý je 20 sekúnd, ak národná rada nerozhodne inak.
@@ -104,14 +104,14 @@ Toto rozsiahle ustanovenie je jadrom procedurálnej úpravy hlasovania a rozliš
 
 ### § 39a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podrobnosti o voľbe a odvolávaní funkcionárov, okrem funkcionárov národnej rady podľa § 2 ods. 3 písm. a) a písm. b), upraví volebný poriadok, ktorý na návrh ústavnoprávneho výboru schváli národná rada.
 
 Ustanovenie zveruje podrobnú úpravu volebných a odvolávacích procesov funkcionárov osobitnému vnútornému predpisu - volebnému poriadku, ktorý schvaľuje národná rada na návrh ústavnoprávneho výboru. Ide o typický príklad delegácie normotvorby na nižšiu, flexibilnejšiu úroveň vnútroparlamentného predpisu, ktorý môže byť operatívnejšie menený než samotný zákon o rokovacom poriadku, a zároveň podlieha kontrole gestorského ústavnoprávneho výboru ako garanta ústavnosti a systémovej konzistentnosti takejto úpravy. Z pôsobnosti volebného poriadku sú výslovne vyňatí funkcionári národnej rady definovaní v § 2 ods. 3 písm. a) a b) (typicky predseda a podpredsedovia národnej rady), ktorých voľba a odvolávanie sú upravené priamo v zákone, a to vzhľadom na ich ústavný význam a citlivosť postupu ich ustanovovania do funkcie. Táto výnimka zabezpečuje, že najvýznamnejšie funkcie parlamentu majú svoju procesnú úpravu zakotvenú na úrovni zákona, kým podrobnosti volieb ostatných funkcionárov (napríklad predsedov a podpredsedov výborov, členov komisií a podobne) môžu byť flexibilnejšie upravené interným predpisom.
 
 ### § 40
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podpisovanie uznesení národnej rady
 >
 > Uznesenia národnej rady podpisuje predseda národnej rady a dvaja overovatelia národnej rady.
@@ -120,7 +120,7 @@ Ustanovenie upravuje formálnu náležitosť platného uznesenia národnej rady 
 
 ### § 41
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zápisnice zo schôdze národnej rady
 >
 > (1) Z každej schôdze národnej rady sa vyhotovuje doslovná zápisnica. V zápisnici sa uvedie aj to, kto riadil schôdzu, koľko poslancov bolo prítomných, ktorí poslanci neboli prítomní, ktorí poslanci žiadali svoju neúčasť na rokovacích dňoch schôdze národnej rady ospravedlniť, ktorí rečníci vystúpili v rozprave a aký bol výsledok hlasovania.
@@ -139,7 +139,7 @@ Ustanovenie upravuje dokumentačný režim schôdzí národnej rady prostredníc
 
 ### § 42
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) O výsledku denného rokovania národnej rady sa vypracúva stručná informácia, ktorá má náležitosti uvedené v odseku 2. Uvedená informácia sa vypracuje do začiatku rokovania ďalšieho dňa.
 >
 > (2) Náležitosti informácie o výsledku rokovania národnej rady v uvedenom dni rokovania národnej rady sú:
@@ -155,7 +155,7 @@ Ustanovenie zavádza operatívny, každodenný informačný výstup odlišný od
 
 ### § 43
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Predseda národnej rady
 >
 > (1) Predseda národnej rady vykonáva pôsobnosť podľa ústavy.38)
@@ -182,7 +182,7 @@ Ustanovenie vymedzuje kompetencie predsedu národnej rady, pričom odsek 1 odkaz
 
 ### § 44
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podpredsedovia národnej rady
 >
 > Podpredsedovia národnej rady
@@ -196,7 +196,7 @@ Výbory národnej rady
 
 ### § 45
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Národná rada zriaďuje z poslancov výbory ako svoje iniciatívne a kontrolné orgány.
 >
 > (2) Národná rada zriaďuje mandátový a imunitný výbor, výbor pre nezlučiteľnosť funkcií, Výbor Národnej rady Slovenskej republiky pre európske záležitosti (ďalej len „výbor pre európske záležitosti") a Ústavnoprávny výbor Národnej rady Slovenskej republiky (ďalej len „ústavnoprávny výbor“). Ďalšie výbory zriaďuje podľa potreby a určí úseky ich činnosti.
@@ -213,7 +213,7 @@ Ustanovenie otvára oddiel venovaný výborom národnej rady a definuje ich zák
 
 ### § 46
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Výbory prerokúvajú veci, ktoré im predseda národnej rady alebo národná rada pridelí, a veci, na ktorých prerokovaní sa uznesú. Veci pridelené výborom prerokujú výbory v určenej lehote.
 >
 > (2) Na prerokovanie veci vo výbore určí jeho predseda z členov výboru spravodajcu. Spravodajca podá výboru správu o prerokúvanej veci a navrhne uznesenie.
@@ -228,7 +228,7 @@ Ustanovenie upravuje mechanizmus prideľovania vecí výborom a inštitút sprav
 
 ### § 47
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrhy, podnety a stanoviská môžu výbory zasielať aj príslušným členom vlády alebo vedúcim ďalších ústredných orgánov; podľa povahy veci o tom informujú aj predsedu národnej rady.
 >
 > (2) Členovia vlády a vedúci ďalších ústredných orgánov sú povinní výboru do 30 dní, ak výbor neurčí dlhšiu lehotu, oznámiť, aké opatrenia prijali na jeho odporúčanie.
@@ -239,7 +239,7 @@ Ustanovenie dotvára kontrolnú funkciu výborov voči výkonnej moci tým, že 
 
 ### § 48
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ustanovujúcu schôdzu výboru zvolá jeho predseda. Výbor zvolí jedného alebo dvoch podpredsedov výboru a dvoch overovateľov výboru vrátane ich náhradníkov.
 >
 > (2) Na zvolenie alebo na odvolanie podpredsedu výboru a overovateľov výboru vrátane ich náhradníkov je potrebný súhlas nadpolovičnej väčšiny všetkých členov výboru.
@@ -254,7 +254,7 @@ Ustanovenie upravuje ustanovenie vnútorných orgánov výboru a rieši viaceré
 
 ### § 49
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Schôdze výboru zvoláva spravidla počas rokovacích dní (§ 22) a riadi predseda výboru. Po začatí schôdze výboru predseda výboru oznámi mená členov výboru, ktorí ho písomne požiadali o ospravedlnenie svojej neúčasti na schôdzi výboru. Schôdze výboru nie je možné zvolať tak, aby sa konali počas rokovania národnej rady (§ 22); to platí aj pre poslanecké prieskumy a výjazdové schôdze výborov.
 >
 > (2) Predseda výboru je povinný zvolať schôdzu výboru, ak sa na tom uznesie národná rada alebo ak o to požiada predseda národnej rady alebo aspoň tretina členov výboru. Ak nie je v uznesení národnej rady určená alebo v žiadosti uvedená lehota, dokedy sa má schôdza výboru konať, predseda výboru je povinný zvolať schôdzu výboru najneskôr do siedmich dní od prijatia uznesenia alebo od doručenia žiadosti.
@@ -267,7 +267,7 @@ Ustanovenie upravuje zvolávanie, riadenie a program schôdzí výboru. Odsek 1 
 
 ### § 49a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zabezpečenie poriadku na schôdzi výboru
 >
 > (1) Ak sa poslanec na schôdzi výboru odchyľuje od prerokúvanej veci, predsedajúci ho vyzve, aby hovoril k veci. Ak ani po opakovanej výzve nebude hovoriť k veci, odoberie mu slovo.
@@ -288,7 +288,7 @@ Ustanovenie prenáša na úroveň výboru disciplinárne nástroje obdobné tým
 
 ### § 50
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Schôdze výborov sú verejné, ak tento zákon neustanovuje inak (§ 57 ods. 3, § 58 ods. 2 a § 60 ods. 3). Účasť verejnosti sa umožňuje do naplnenia kapacity miest v miestnosti, v ktorej výbor rokuje. Na konanie neverejnej schôdze výboru sa vzťahujú ustanovenia § 18 ods. 2 a 3 obdobne.
 >
 > (2) Členovia výborov, ktorým nebol pridelený návrh na prerokovanie, môžu písomne oznámiť svoje stanovisko gestorskému výboru. Výbor sa ich stanoviskami zaoberá aj vtedy, ak sa na prerokúvaní návrhu vo výbore nezúčastnia.
@@ -303,14 +303,14 @@ Ustanovenie zakotvuje zásadu verejnosti schôdzí výborov ako pravidlo, od kto
 
 ### § 51
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Z verejnej schôdze výboru uskutočňuje kancelária verejne dostupný audiovizuálny prenos. Ak na začiatku schôdze výboru nie je výbor schopný uznášať sa, audiovizuálny prenos sa skončí. Zverejnenie vystúpenia poslanca na verejnej schôdzi výboru nemožno obmedziť.
 
 Ustanovenie konkretizuje zásadu verejnosti schôdzí výboru podľa § 50 ods. 1 o modernú formu jej naplnenia - povinný audiovizuálny prenos zabezpečovaný kanceláriou národnej rady, ktorý umožňuje verejnosti sledovať rokovanie výboru bez potreby fyzickej prítomnosti v obmedzenej kapacite rokovacej miestnosti. Táto povinnosť sa vzťahuje výlučne na verejné schôdze; ak výbor na začiatku svojho rokovania nie je uznášaniaschopný, prenos sa ukončí, keďže v takom prípade nedochádza k formálnemu prerokúvaniu veci výborom ako kolektívnym orgánom. Tretia veta ustanovenia obsahuje dôležitú garanciu slobody prejavu poslanca - zverejnenie jeho vystúpenia na verejnej schôdzi výboru nemožno obmedziť, čo vylučuje akékoľvek dodatočné cenzurovanie, prerušovanie alebo blokovanie prenosu vystúpenia poslanca zo strany kancelárie alebo iného subjektu, a tým chráni transparentnosť parlamentnej kontroly a informovanosť verejnosti o skutočnom obsahu rokovania.
 
 ### § 52
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Výbor rozhoduje uznesením. Hlasovanie vo výbore je verejné.
 >
 > (2) Výbor sa môže uznášať, ak je prítomná nadpolovičná väčšina všetkých jeho členov. Ak na začiatku schôdze výboru nie je výbor schopný uznášať sa, predsedajúci schôdzu výboru skončí.
@@ -325,7 +325,7 @@ Ustanovenie upravuje formu rozhodovania výboru a kvóra potrebné na jeho uzná
 
 ### § 53
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Prezident republiky, členovia vlády, generálny prokurátor a predseda najvyššieho kontrolného úradu majú právo zúčastňovať sa aj na schôdzach výboru; udelí sa im slovo, kedykoľvek o to požiadajú.
 >
 > (2) Výbory majú právo pozývať na svoje schôdze členov vlády, vedúcich iných orgánov štátnej správy a generálneho prokurátora a vyžadovať od nich vysvetlenia, správy a potrebné podklady; tí sú povinní prísť na schôdzu výboru, podať požadované vysvetlenia a správy a predložiť podklady. Môžu sa dať zastúpiť poverenými zástupcami, ak s tým výbor súhlasí.
@@ -336,7 +336,7 @@ Ustanovenie upravuje účasť najvyšších ústavných činiteľov a predstavit
 
 ### § 54
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Výbory môžu pozývať na svoje schôdze aj odborníkov a ďalšie osoby a požiadať ich o stanovisko.
 >
 > (2) Výbory môžu požiadať odborníkov, vedecké ústavy alebo iné ustanovizne, aby vypracovali odborné posudky a stanoviská potrebné na rokovanie výborov. Na vyjasnenie obsahu podaného posudku môže výbor požadovať, aby ten, kto ho vypracoval, podal ústne vysvetlenie na schôdzi výboru.
@@ -345,14 +345,14 @@ Ustanovenie rozširuje možnosti výboru získavať odborné vstupy nad rámec f
 
 ### § 55
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zo schôdzí výboru sa vyhotovujú zápisnice. Zápisnice a uznesenia overuje overovateľ výboru svojím podpisom. Po overení ich podpisuje predseda výboru alebo ten, kto ho zastupuje (§ 48 ods. 1).
 
 Ustanovenie upravuje dokumentačný režim schôdzí výboru, analogický k úprave zápisníc zo schôdzí pléna podľa § 41, hoci v jednoduchšej podobe zodpovedajúcej menšiemu rozsahu a významu výborovej agendy v porovnaní s plenárnym rokovaním. Zo schôdzí výboru sa povinne vyhotovujú zápisnice, ktoré prechádzajú dvojstupňovým procesom autentizácie - najprv ich svojím podpisom overuje overovateľ výboru zvolený podľa § 48 ods. 1, a až po tomto overení ich podpisuje predseda výboru alebo osoba, ktorá ho v danom čase zastupuje. Táto dvojstupňová štruktúra (overenie a následné podpísanie) zabezpečuje kontrolu správnosti obsahu zápisnice nezávislou osobou (overovateľom) predtým, než ju svojím podpisom potvrdí vedenie výboru, čím sa znižuje riziko chýb alebo skreslenia záznamu o priebehu rokovania a prijatých uzneseniach výboru.
 
 ### § 56
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Výbory môžu po vzájomnej dohode konať spoločné schôdze a podávať spoločné návrhy.
 >
 > (2) Na rokovanie spoločnej schôdze výborov primerane platia ustanovenia o rokovaní na schôdzach výborov. V riadení spoločnej schôdze výborov sa predsedovia výborov striedajú; výbory hlasujú vždy oddelene.
@@ -363,7 +363,7 @@ Ustanovenie upravuje inštitút spoločnej schôdze viacerých výborov, ktorý 
 
 ### § 57
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Mandátový a imunitný výbor
 >
 > (1) Mandátový a imunitný výbor najmä
@@ -385,7 +385,7 @@ Ustanovenie upravuje pôsobnosť mandátového a imunitného výboru, ktorý zo 
 
 ### § 58
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výbor pre nezlučiteľnosť funkcií
 >
 > (1) Výbor pre nezlučiteľnosť funkcií najmä
@@ -399,7 +399,7 @@ Ustanovenie upravuje pôsobnosť výboru pre nezlučiteľnosť funkcií, ktorý 
 
 ### § 58a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výbor pre európske záležitosti
 >
 > (1) Národná rada volí predsedu a členov výboru pre európske záležitosti na základe princípu pomerného zastúpenia politických strán a politických hnutí, za ktoré boli poslanci zvolení do národnej rady v príslušnom volebnom období a ktorý musí byť dodržaný počas celého volebného obdobia.
@@ -439,7 +439,7 @@ Ustanovenie upravuje výbor pre európske záležitosti, ktorého úprava je z c
 
 ### § 58b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Žaloba vo veci porušenia zásady subsidiarity legislatívnym aktom Európskej únie
 >
 > (1) Výbor pre európske záležitosti alebo najmenej pätina poslancov národnej rady môže písomne požiadať národnú radu, aby sa uzniesla na podaní žaloby vo veci porušenia zásady subsidiarity legislatívnym aktom Európskej únie (ďalej len „návrh žaloby“). Návrh žaloby musí obsahovať presné znenie žaloby, na ktorej sa má národná rada uzniesť.
@@ -466,7 +466,7 @@ Ustanovenie upravuje osobitný a procesne prepracovaný postup, ktorým národn�
 
 ### § 59
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavnoprávny výbor
 >
 > (1) Ústavnoprávny výbor najmä
@@ -483,7 +483,7 @@ Ustanovenie upravuje pôsobnosť ústavnoprávneho výboru, ktorý má v systém
 
 ### § 60
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Osobitné kontrolné výbory
 >
 > (1) Národná rada si zriaďuje z poslancov osobitné kontrolné výbory na kontrolu činnosti Národného bezpečnostného úradu a služieb vykonávaných podľa osobitných predpisov.30) Práva a povinnosti osobitných kontrolných výborov a ich členov upravujú osobitné predpisy.50)
@@ -496,7 +496,7 @@ Ustanovenie upravuje osobitnú kategóriu výborov určených na kontrolu najcit
 
 ### § 60a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rokovanie výborov počas mimoriadnej situácie alebo núdzového stavu
 >
 > (1) Verejná schôdza výboru sa počas mimoriadnej situácie, núdzového stavu alebo aj v čase vojny, vojnového stavu alebo výnimočného stavu, ak činnosť nevykonáva Parlamentná rada Slovenskej republiky podľa osobitného zákona84aa) (ďalej len „krízová situácia“), môže uskutočniť aj prostredníctvom videokonferencie alebo inými prostriedkami komunikačnej technológie, ktoré slúžia na prenos obrazu a zvuku (ďalej len „online forma“), a to na základe rozhodnutia predsedu výboru alebo ak o to požiada aspoň tretina členov výboru najneskôr 48 hodín pred začiatkom zvolanej schôdze výboru. Predseda oznámi svoje rozhodnutie podľa prvej vety členom výboru najneskôr 24 hodín pred začiatkom zvolanej schôdze výboru. Podrobnosti rokovania počas krízovej situácie si výbor upraví v podrobnejších pravidlách svojho rokovania.
@@ -515,7 +515,7 @@ Ustanovenie predstavuje modernizačný prvok rokovacieho poriadku reagujúci na 
 
 ### § 61
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Komisie
 >
 > (1) Národná rada a výbory si môžu zriaďovať stále alebo dočasné komisie na konzultovanie otázok a na prípravu stanovísk k veciam, ktoré patria do ich pôsobnosti. Členmi komisie môžu byť poslanci a iné osoby. Predsedom komisie je vždy poslanec. Výbory môžu zriaďovať aj spoločné komisie.
@@ -528,7 +528,7 @@ Ustanovenie upravuje inštitút komisií ako pomocných, poradných telies zria�
 
 ### § 62
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Overovatelia národnej rady
 >
 > (1) Overovatelia národnej rady dozerajú na správnosť hlasovania a na konanie volieb na schôdzach národnej rady. Na návrh predsedajúceho môže národná rada bez rozpravy rozhodnúť, že v prípade pochybností o výsledku hlasovania overovatelia národnej rady spočítajú hlasy.
@@ -545,7 +545,7 @@ Ustanovenie upravuje postavenie a úlohy overovateľov národnej rady, ktorí pl
 
 ### § 63
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účasť poslancov na schôdzach národnej rady a jej výborov
 >
 > (1) Poslanec je povinný zúčastňovať sa na schôdzach národnej rady a jej výborov, do ktorých bol zvolený. Je povinný zúčastňovať sa aj na činnostiach, ktoré patria do ich pôsobnosti, ktoré mu národná rada alebo výbor určil alebo ktorými ho poveril.

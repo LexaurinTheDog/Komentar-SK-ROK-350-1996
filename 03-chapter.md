@@ -2,7 +2,7 @@
 
 ### § 63a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Poslanec alebo skupina poslancov môže vykonať poslanecký prieskum, aby zistili, ako sa dodržiavajú a vykonávajú zákony a či hospodárenie s verejnými prostriedkami je s nimi v súlade, ak ich vykonaním poslaneckého prieskumu poverí národná rada alebo výbor. Poslanecký prieskum podľa prvej vety môže poslanec alebo skupina poslancov vykonať v
 > a) orgánoch verejnej moci a vo verejnoprávnych inštitúciách, ktoré hospodária s prostriedkami rozpočtov, ktoré podľa zákona schvaľuje národná rada,
 > b) subjektoch, ktoré hospodária s majetkom, záväzkami, finančnými prostriedkami, majetkovými právami a pohľadávkami štátu a verejnoprávnych inštitúcií,
@@ -16,7 +16,7 @@ Ustanovenie zakotvuje inštitút poslaneckého prieskumu ako individuálny kontr
 
 ### § 64
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Poslanci sa môžu združovať v poslaneckých kluboch, a to podľa príslušnosti k politickým stranám, politickým hnutiam alebo k volebným koalíciám, za ktoré boli zvolení do národnej rady.
 >
 > (2) Ak dôjde počas volebného obdobia k rozdeleniu volebných koalícií alebo k zlúčeniu politických strán alebo hnutí, rozdelia sa alebo zlúčia aj ich poslanecké kluby, ak spĺňajú podmienky podľa tohto zákona.
@@ -35,7 +35,7 @@ Poslanecký klub je organizačnou jednotkou, prostredníctvom ktorej sa v parlam
 
 ### § 65
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Poslanecké kluby majú právo používať na svoju činnosť miestnosti v priestoroch národnej rady. Podrobnosti upraví predseda národnej rady.
 >
 > (2) Na úhradu nákladov poslaneckých klubov sa poskytujú príspevky z rozpočtu kancelárie vo výške, ktorú určí na každý rozpočtový rok predseda národnej rady, a to s prihliadnutím na počet členov jednotlivých poslaneckých klubov.
@@ -48,7 +48,7 @@ Ustanovenie upravuje materiálne a finančné zabezpečenie činnosti poslaneck�
 
 ### § 66
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Poslanecké grémium
 >
 > (1) Poslanecké grémium posudzuje otázky politickej a procedurálnej povahy, ktoré súvisia s činnosťou národnej rady a jej orgánov.
@@ -67,7 +67,7 @@ Poslanecké grémium je poradným, neformálnym orgánom politickej koordinácie
 
 ### § 67
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrh zákona môžu podávať výbory, poslanci a vláda53) (ďalej len „navrhovateľ zákona“).
 >
 > (2) Návrh zákona sa podáva predsedovi národnej rady písomne v potrebnom počte výtlačkov a v elektronickej forme.
@@ -78,7 +78,7 @@ Ustanovenie otvára desiatu časť zákona venovanú legislatívnemu procesu a v
 
 ### § 68
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrh zákona obsahuje jeho paragrafové znenie a dôvodovú správu a ak ide o návrh zákona, ktorým sa mení alebo dopĺňa iný zákon, aj informatívne konsolidované znenie podľa odseku 6.
 >
 > (2) Znenie návrhu zákona musí byť zrozumiteľné a musí byť z neho zrejmé, čo sa má zákonom dosiahnuť.
@@ -95,7 +95,7 @@ Ustanovenie upravuje obsahové náležitosti návrhu zákona. Základnú štrukt
 
 ### § 69
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Spôsob tvorby zákonov, podrobnosti o postupe pri ich príprave, predkladaní a prerokúvaní a o ich forme upravia legislatívne pravidlá, ktoré schváli národná rada uznesením.
 >
 > (2) Legislatívne pravidlá sú pre navrhovateľa zákona záväzné.
@@ -104,7 +104,7 @@ Ustanovenie deleguje podrobnú úpravu legislatívneho procesu na osobitný, ná
 
 ### § 70
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak návrh zákona nespĺňa náležitosti podľa tohto zákona alebo podľa legislatívnych pravidiel (§ 69), predseda národnej rady odporučí navrhovateľovi zákona, aby nedostatky odstránil. Ak navrhovateľ zákona s odporúčaním nesúhlasí, predloží predseda národnej rady svoje odporúčanie spolu so stanoviskom navrhovateľa zákona na najbližšiu schôdzu národnej rady, ktorá o nich rozhodne bez rozpravy.
 >
 > (2) Ak návrh zákona podajú výbory alebo poslanec a ak návrh zákona spĺňa ustanovené náležitosti a národná rada sa uzniesla, že ho prerokuje v druhom čítaní, predseda národnej rady doručí návrh zákona vláde a požiada ju o zaujatie stanoviska v lehote do 30 dní. Vláda zašle stanovisko predsedovi národnej rady. Ak vláda v 30-dňovej lehote nezaujme stanovisko, rokuje sa o návrhu zákona aj bez tohto stanoviska. Ak vláda doručí stanovisko dodatočne, možno ho zohľadniť.
@@ -115,14 +115,14 @@ Prvé čítanie
 
 ### § 71
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Predseda národnej rady zabezpečí bezodkladné zverejnenie návrhu zákona, ktorý spĺňa náležitosti podľa tohto zákona, na webovom sídle národnej rady. Predseda národnej rady navrhne národnej rade prideliť návrh zákona ústavnoprávnemu výboru a podľa povahy veci aj ďalším výborom. Súčasne navrhne výbor, ktorý je pre tento návrh zákona gestorský.
 
 Ustanovenie otvára oddiel venovaný prvému čítaniu a ukladá predsedovi národnej rady dve súbežné povinnosti súvisiace s prijatým, formálne bezchybným návrhom zákona. Po prvé, ide o povinnosť bezodkladného zverejnenia návrhu na webovom sídle národnej rady, čím sa zabezpečuje verejná dostupnosť návrhu už v najskoršej fáze legislatívneho procesu a umožňuje sa verejnosti aj dotknutým subjektom oboznámiť sa s jeho obsahom prv, než sa o ňom bude rokovať v pléne. Po druhé, predseda predkladá národnej rade návrh na pridelenie návrhu zákona výborom na prerokovanie - vždy vrátane ústavnoprávneho výboru, ktorého zapojenie je pri tvorbe zákonov štandardné vzhľadom na jeho úlohu strážcu ústavnosti a legislatívno-technickej kvality, a podľa vecnej povahy návrhu aj ďalším príslušným výborom. Súčasťou tohto návrhu je aj určenie gestorského výboru, teda výboru, ktorý bude koordinovať ďalšie prerokúvanie návrhu vo výboroch a spracuje spoločnú správu (§ 79) - ide o kľúčovú procesnú funkciu, ktorá zabezpečuje jednotný postup pri prerokúvaní návrhu vo viacerých výboroch súčasne.
 
 ### § 72
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrh zákona sa musí zverejniť na webovom sídle národnej rady najmenej 15 dní pred schôdzou národnej rady, na ktorej sa uskutoční jeho prvé čítanie.
 >
 > (2) Predseda národnej rady zaradí návrh zákona do programu najbližšej schôdze národnej rady. Ustanovenia § 24 ods. 1 sa nepoužijú. Návrh zákona sa nemôže zaradiť do programu schôdze, ak neuplynula lehota ustanovená v odseku 1.
@@ -133,7 +133,7 @@ Ustanovenie zakotvuje minimálnu pätnásťdňovú lehotu medzi zverejnením ná
 
 ### § 73
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrh zákona uvedie navrhovateľ zákona. Po ňom vystúpi spravodajca, ktorého určí navrhnutý gestorský výbor.
 >
 > (2) O návrhu zákona, najmä o jeho podstate, sa koná všeobecná rozprava. V nej nemožno predkladať návrhy na jeho zmeny a doplnky.
@@ -149,7 +149,7 @@ Ustanovenie upravuje priebeh samotného prvého čítania na schôdzi národnej 
 
 ### § 74
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak sa národná rada rozhodla prerokovať návrh zákona v druhom čítaní, rozhodne aj o návrhu predsedu národnej rady na pridelenie návrhu zákona výborom a na určenie gestorského výboru; návrh zákona sa vždy pridelí ústavnoprávnemu výboru. O pozmeňujúcich a doplňujúcich návrhoch poslancov k návrhu na pridelenie návrhu zákona výborom rozhoduje národná rada bez rozpravy.
 >
 > (2) Národná rada na základe návrhu predsedu národnej rady určí aj lehotu na prerokovanie návrhu zákona vo výboroch, ktorým bol pridelený. Táto lehota nesmie byť kratšia ako 30 dní odo dňa pridelenia.
@@ -164,7 +164,7 @@ Druhé čítanie
 
 ### § 75
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) O návrhu zákona rokujú výbory, ktorým bol pridelený.
 >
 > (2) Poslanci, ktorí nie sú členmi výborov, ktorým bol návrh zákona pridelený, môžu svoje stanovisko oznámiť gestorskému výboru do začatia jeho rokovania podľa § 79 ods. 2.
@@ -173,14 +173,14 @@ Ustanovenie otvára oddiel druhého čítania, ktoré prebieha primárne na úro
 
 ### § 76
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh zákona vo výboroch odôvodňuje člen vlády alebo vedúci ústredného orgánu štátnej správy, ktorého tým vláda poverila. Iná poverená osoba môže odôvodniť návrh zákona len so súhlasom výboru. Ak ide o návrh výboru alebo skupiny poslancov, návrh zákona odôvodní nimi poverený poslanec, a ak ide o návrh poslanca, navrhujúci poslanec.
 
 Ustanovenie určuje, kto je oprávnený odôvodniť návrh zákona pri jeho prerokúvaní vo výboroch, pričom rozlišuje podľa toho, kto je navrhovateľom. Pri vládnych návrhoch je štandardným odôvodňovateľom člen vlády alebo vedúci ústredného orgánu štátnej správy poverený vládou, čo zodpovedá kolektívnej povahe vládneho návrhu, kde konkrétnu osobu na zastupovanie určuje vláda ako celok. Iná poverená osoba (typicky štátny tajomník alebo iný vysoký úradník príslušného rezortu) môže návrh odôvodniť len s výslovným súhlasom výboru - tento súhlas pôsobí ako poistka, ktorá výboru umožňuje trvať na tom, aby sa k návrhu vyjadrovala osoba s dostatočnou rozhodovacou právomocou a znalosťou veci. Pri návrhoch vzídených z parlamentného prostredia sa odôvodňovateľ určuje analogicky: ak ide o návrh výboru alebo skupiny poslancov, odôvodňuje ho nimi poverený poslanec, a ak ide o individuálny poslanecký návrh, odôvodňuje ho priamo navrhujúci poslanec, čo zodpovedá zásade osobnej zodpovednosti navrhovateľa za obsah a zdôvodnenie svojho návrhu.
 
 ### § 77
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Na prerokovanie návrhu zákona určí výbor na návrh predsedu výboru zo svojich členov spravodajcu, ktorý vystúpi po navrhovateľovi zákona.
 >
 > (2) Spravodajca informuje výbor najmä o vyjadreniach, posudkoch a informáciách, ktoré si výbor alebo spravodajca vyžiadal alebo mu boli doručené, a navrhne uznesenie výboru.
@@ -191,14 +191,14 @@ Ustanovenie zakotvuje inštitút výborového spravodajcu, ktorý je z hľadiska
 
 ### § 78
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Výbor vypracuje o výsledku prerokovania návrhu zákona v druhom čítaní pre národnú radu písomnú správu obsahujúcu stanovisko výboru, v ktorom najmä navrhne, či odporúča národnej rade návrh zákona schváliť; ak sa výbor uznesie na pozmeňujúcich alebo na doplňujúcich návrhoch, správa obsahuje ich znenie. Návrhy musia byť presne sformulované a odôvodnené. Písomnú správu pre národnú radu obsahujúcu stanovisko výboru schvaľuje výbor uznesením.
 
 Ustanovenie upravuje výstup výborového prerokovania návrhu zákona - písomnú správu pre národnú radu, ktorá zhŕňa stanovisko výboru vrátane odporúčania, či má národná rada návrh schváliť, a prípadne aj znenie schválených pozmeňujúcich alebo doplňujúcich návrhov. Zákon kladie dôraz na kvalitu formulácie týchto návrhov - musia byť presne sformulované a odôvodnené, čo má predchádzať nejasnostiam pri ich neskoršom hlasovaní v pléne a zabezpečiť, že poslanci budú rozhodovať o jednoznačne vymedzenom texte. Samotná správa nadobúda záväznú podobu výboru až po jej schválení uznesením výboru, teda nejde o osobný výstup spravodajcu, ale o kolektívne stanovisko celého výboru, ktoré tak vyjadruje väčšinovú vôľu jeho členov.
 
 ### § 79
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak návrh zákona prerokovali viaceré výbory, podajú národnej rade písomnú spoločnú správu, ktorú vypracuje gestorský výbor.
 >
 > (2) Gestorský výbor rokuje o návrhu zákona ako posledný.
@@ -220,7 +220,7 @@ Ustanovenie upravuje procesnú úlohu gestorského výboru pri koordinácii výs
 
 ### § 80
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Gestorský výbor určí spoločného spravodajcu na prerokovanie návrhu zákona v národnej rade; môže určiť aj náhradníkov spoločného spravodajcu. Ak gestorský výbor neurčí spoločného spravodajcu, určí ho predseda tohto výboru; predseda výboru môže určiť aj náhradníkov spoločného spravodajcu.
 >
 > (2) Spoločný spravodajca informuje národnú radu o výsledku rokovania výborov a odôvodňuje návrh a stanovisko gestorského výboru. Ak gestorský výbor neschválil spoločnú správu alebo stanovisko, podáva spoločný spravodajca len informáciu o výsledkoch rokovania výborov a predkladá návrh na ďalší postup.
@@ -229,7 +229,7 @@ Ustanovenie upravuje inštitút spoločného spravodajcu, ktorý zastupuje výsl
 
 ### § 81
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Spoločná správa výborov alebo informácia spoločného spravodajcu o výsledku prerokovania návrhu zákona v druhom čítaní sa doručí všetkým poslancom a navrhovateľovi zákona a zverejní sa na webovom sídle národnej rady.
 >
 > (2) O návrhu zákona v druhom čítaní môže národná rada rokovať najskôr po uplynutí 48 hodín od doručenia spoločnej správy výborov alebo informácie spoločného spravodajcu. O skrátení tejto lehoty môže na návrh gestorského výboru alebo spoločného spravodajcu rozhodnúť národná rada bez rozpravy, ak ide o jednoduchý návrh zákona.
@@ -238,7 +238,7 @@ Ustanovenie zabezpečuje informovanosť poslancov a navrhovateľa pred plenárny
 
 ### § 82
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak gestorský výbor alebo spoločný spravodajca odporučil národnej rade návrh zákona vrátiť navrhovateľovi zákona na dopracovanie alebo odložiť rokovanie o ňom, alebo nepokračovať v rokovaní o ňom, hlasuje sa najskôr o tomto návrhu.
 >
 > (2) Na podávanie pozmeňujúcich a doplňujúcich návrhov (§ 29 ods. 1) k návrhu zákona na schôdzi národnej rady je potrebný súhlas aspoň 15 poslancov vrátane poslanca, ktorý podáva pozmeňujúci a doplňujúci návrh (§ 29). Súhlas poslanca sa vyjadruje jeho podpisom pod písomný a odôvodnený pozmeňujúci alebo doplňujúci návrh. Ak poslanec zoberie svoj súhlas späť pred hlasovaním o pozmeňujúcich a doplňujúcich návrhoch, takže chýba potrebný počet poslancov, považuje sa pozmeňujúci a doplňujúci návrh za vzatý späť.
@@ -247,7 +247,7 @@ Ustanovenie upravuje dve samostatné otázky súvisiace s hlasovacím poriadkom 
 
 ### § 83
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Po skončení rozpravy o návrhu zákona v druhom čítaní na schôdzi národnej rady sa hlasuje o podaných pozmeňujúcich a doplňujúcich návrhoch. Ak bol v rozprave podaný návrh vrátiť návrh zákona na dopracovanie alebo odložiť rokovanie o ňom, alebo nepokračovať v rokovaní o ňom, hlasuje sa najprv o tomto návrhu.
 >
 > (2) K pozmeňujúcim a doplňujúcim návrhom spoločný spravodajca nezaujíma stanovisko; upozorní na ich súvislosť s návrhom zákona a s návrhmi uvedenými v spoločnej správe výborov. Ak poslanec v rozprave podal viaceré pozmeňujúce a doplňujúce návrhy, spoločný spravodajca pred hlasovaním o každom z nich stručne uvedie, čoho sa pozmeňujúci a doplňujúci návrh týka.
@@ -262,7 +262,7 @@ Tretie čítanie
 
 ### § 84
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak v druhom čítaní neboli schválené nijaké pozmeňujúce ani doplňujúce návrhy, pristúpi sa v treťom čítaní k hlasovaniu o návrhu zákona ako o celku.
 >
 > (2) Ak v druhom čítaní boli schválené pozmeňujúce alebo doplňujúce návrhy, koná sa tretie čítanie najskôr na druhý deň po ich schválení (§ 83), ak odsek 3 neustanovuje inak; skôr sa môže konať, ak o tom na návrh gestorského výboru alebo spoločného spravodajcu rozhodne národná rada bez rozpravy.
@@ -273,7 +273,7 @@ Ustanovenie otvára oddiel tretieho čítania a upravuje jeho časové naviazani
 
 ### § 85
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Tretie čítanie sa obmedzí len na tie ustanovenia návrhu zákona, ku ktorým boli v druhom čítaní schválené pozmeňujúce alebo doplňujúce návrhy.
 >
 > (2) V treťom čítaní môže poslanec navrhnúť zmenu ustanovenia o účinnosti návrhu zákona vrátane ustanovení súvisiacich s účinnosťou návrhu zákona, opravu legislatívno-technických chýb alebo jazykových chýb.
@@ -289,14 +289,14 @@ Ustanovenie vymedzuje vecný rozsah tretieho čítania, ktorý je oproti druhém
 
 ### § 86
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > V treťom čítaní sa najskôr hlasuje o podaných návrhoch podľa § 85. Ak také návrhy podané neboli, pristúpi sa k hlasovaniu o návrhu zákona ako o celku.
 
 Ustanovenie uzatvára hlasovací postup tretieho čítania jednoduchým pravidlom poradia: najprv sa hlasuje o návrhoch podaných podľa § 85 (teda o zmenách účinnosti, opravách chýb alebo návrhu na opakovanie druhého čítania), a až následne, prípadne ak žiadne takéto návrhy podané neboli, sa pristúpi k hlasovaniu o návrhu zákona ako o celku. Táto postupnosť zabezpečuje, že finálne hlasovanie o zákone odráža všetky poslednú fázu procesu ovplyvňujúce zmeny, ktoré boli v treťom čítaní schválené, a zároveň potvrdzuje, že práve hlasovanie o návrhu ako celku je vyvrcholením a formálnym záverom celého legislatívneho procesu v národnej rade.
 
 ### § 87
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rokovanie o návrhu zákona o štátnom rozpočte
 >
 > (1) Termín predloženia návrhu zákona o štátnom rozpočte určuje osobitný predpis.55)
@@ -309,7 +309,7 @@ Ustanovenie zavádza osobitný, zjednodušený procesný režim pre návrh záko
 
 ### § 88
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rokovanie o medzinárodnej zmluve
 >
 > (1) Medzinárodná zmluva, pred ktorej ratifikáciou je potrebný súhlas národnej rady, sa prerokuje v druhom a treťom čítaní. O náležitostiach podľa § 74 rozhodne predseda národnej rady.
@@ -326,7 +326,7 @@ Ustanovenie upravuje osobitný postup pri udeľovaní súhlasu národnej rady s 
 
 ### § 89
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Skrátené legislatívne konanie
 >
 > (1) Za mimoriadnych okolností, keď môže dôjsť k ohrozeniu základných ľudských práv a slobôd alebo bezpečnosti alebo ak hrozia štátu značné hospodárske škody, národná rada sa môže na návrh vlády uzniesť na skrátenom legislatívnom konaní o návrhu zákona. Návrh na skrátené legislatívne konanie obsahuje
@@ -341,7 +341,7 @@ Ustanovenie upravuje mimoriadny procesný inštitút skráteného legislatívneh
 
 ### § 90
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vrátenie zákona prezidentom republiky
 >
 > (1) Ak prezident republiky vráti zákon s pripomienkami56) národnej rade na opätovné prerokovanie, prerokuje sa v druhom a treťom čítaní s tým, že predmetom prerokúvania sú iba pripomienky prezidenta republiky. Pripomienky musia obsahovať presné znenie navrhovanej úpravy, ak prezident republiky nenavrhne neprijatie celého zákona. Národná rada môže zmeniť ustanovenie o účinnosti zákona vráteného prezidentom vrátane ustanovení súvisiacich s účinnosťou zákona, ak by mal zákon nadobudnúť účinnosť skôr, ako bude vyhlásený.
@@ -360,7 +360,7 @@ Spoločné ustanovenia k desiatej časti
 
 ### § 91
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Zákon sa označuje bez slovného spojenia „Národnej rady Slovenskej republiky“.
 >
 > (2) Zákon sa uvádza touto vetou: „Národná rada Slovenskej republiky sa uzniesla na tomto zákone:“.
@@ -369,7 +369,7 @@ Ustanovenie upravuje formálnu, legislatívno-technickú stránku označovania a
 
 ### § 93
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak prezident republiky nevráti národnej rade zákon s pripomienkami, zašle ho predseda národnej rady najneskôr do 21 dní od jeho schválenia na vyhlásenie v Zbierke zákonov Slovenskej republiky.
 >
 > (2) Ak národná rada schváli zákon, ktorý prezident republiky vrátil národnej rade s pripomienkami, zašle predseda národnej rady schválený zákon vrátený prezidentom republiky po jeho opätovnom prerokovaní najneskôr do 14 dní od jeho schválenia na vyhlásenie v Zbierke zákonov Slovenskej republiky.
@@ -378,7 +378,7 @@ Ustanovenie upravuje záverečný krok legislatívneho procesu - odoslanie schv�
 
 ### § 94
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Rozprava sa musí vzťahovať na prerokúvaný návrh zákona alebo medzinárodnú zmluvu.
 >
 > (2) Pri prerokúvaní návrhu zákona, ktorým sa mení a dopĺňa iný zákon, možno podávať návrhy, ktoré predložený návrh zákona rozširujú, len vtedy, ak s tým navrhovateľ vyjadrí súhlas najneskôr pred hlasovaním.
@@ -393,14 +393,14 @@ Ustanovenie zakotvuje vecné mantinely rozpravy a podávania pozmeňujúcich a d
 
 ### § 95
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Navrhovateľ zákona môže svoj návrh zákona vziať späť; v treťom čítaní však len so súhlasom národnej rady.
 
 Ustanovenie upravuje dispozičné právo navrhovateľa vziať späť svoj vlastný návrh zákona, ktoré je prejavom zásady, že návrh zákona zostáva až do jeho schválenia vo sfére dispozície toho, kto ho podal. Toto právo však nie je absolútne a jeho rozsah sa v priebehu legislatívneho procesu postupne zužuje - kým vo včasnejších štádiách (prvé a druhé čítanie) môže navrhovateľ vziať návrh späť voľne, v treťom čítaní, teda tesne pred finálnym hlasovaním o zákone ako celku, je na vzatie späť potrebný súhlas národnej rady. Táto obmedzujúca podmienka reflektuje skutočnosť, že v pokročilej fáze legislatívneho procesu už do návrhu investovali značné úsilie nielen navrhovateľ, ale aj výbory a samotné plénum, a jednostranné stiahnutie návrhu tesne pred jeho schválením by mohlo zmariť výsledky tejto kolektívnej práce bez možnosti národnej rady tomu zabrániť.
 
 ### § 96
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Písomné odôvodnenie schválených zmien a doplnkov sa považuje za súčasť návrhu zákona a použije sa pri výklade a uplatňovaní zákona.
 >
 > (2) Počas prerušenia zasadania národnej rady neplynú lehoty na prerokúvanie návrhov zákonov ustanovené týmto zákonom.
@@ -415,7 +415,7 @@ Ustanovenie obsahuje súbor rôznorodých spoločných pravidiel dotvárajúcich
 
 ### § 97
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak nie je v tejto časti ustanovené inak, použijú sa na rokovanie o návrhoch zákonov ustanovenia štvrtej časti a ustanovenia § 45 až 56.
 
 Ustanovenie uzatvára desiatu časť zákona subsidiárnym odkazom na všeobecné ustanovenia o rokovaní na schôdzach národnej rady obsiahnuté vo štvrtej časti zákona a v ustanoveniach § 45 až 56, ktoré sa na rokovanie o návrhoch zákonov použijú vždy, keď desiata časť neobsahuje vlastnú, osobitnú úpravu. Táto legislatívno-technická technika zabraňuje duplicitnému opakovaniu všeobecných procesných pravidiel (napríklad o vedení rozpravy, udeľovaní slova či priebehu hlasovania) v osobitnej časti venovanej legislatívnemu procesu a zároveň zabezpečuje, že špecifiká zakotvené v desiatej časti majú v prípade kolízie prednosť pred všeobecnou úpravou ako lex specialis.
@@ -424,7 +424,7 @@ Ustanovenie uzatvára desiatu časť zákona subsidiárnym odkazom na všeobecn�
 
 ### § 106
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Obžaloba prezidenta republiky
 >
 > (1) Návrh na obžalobu na prezidenta republiky za úmyselné porušenie ústavy alebo za vlastizradu63) môže národnej rade podať najmenej pätina poslancov.
@@ -439,7 +439,7 @@ Ustanovenie upravuje mimoriadne závažný procesný postup podania ústavnej ob
 
 ### § 107
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Predseda národnej rady zvolá po vymenovaní vlády schôdzu národnej rady tak, aby na nej predseda vlády predniesol programové vyhlásenie vlády a požiadal o vyslovenie dôvery v tridsiaty deň po vymenovaní vlády. Predseda národnej rady môže na návrh vlády zvolať schôdzu národnej rady aj pred uplynutím lehoty uvedenej v predchádzajúcej vete.
 >
 > (2) Predseda národnej rady programové vyhlásenie vlády a žiadosť vlády o vyslovenie dôvery pridelí na prerokovanie všetkým výborom okrem mandátového a imunitného výboru a výboru pre nezlučiteľnosť funkcií.
@@ -450,7 +450,7 @@ Ustanovenie upravuje ústavne významný procesný krok, ktorým novovymenovaná
 
 ### § 108
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Vláda môže kedykoľvek požiadať národnú radu o vyslovenie dôvery64); vláda tak urobí vždy, ak sa realizuje postup podľa osobitného zákona.57a) Odôvodnená žiadosť sa podáva predsedovi národnej rady.
 >
 > (2) Vláda môže spojiť hlasovanie o prijatí zákona alebo hlasovanie v inej veci s hlasovaním o dôvere vláde.65)
@@ -465,7 +465,7 @@ Ustanovenie upravuje inštitút fakultatívnej, vládou iniciovanej žiadosti o 
 
 ### § 109
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Národná rada prerokuje návrh na vyslovenie nedôvery vláde alebo jej členovi, ak o to požiada najmenej pätina jej poslancov.66) Návrh sa podáva predsedovi národnej rady; návrh musí byť vyhotovený písomne a odôvodnený.
 >
 > (2) Predseda národnej rady na prerokovanie návrhu podaného podľa odseku 1 zvolá schôdzu národnej rady tak, aby sa konala do siedmich dní odo dňa, keď mu bol návrh doručený.67)
@@ -482,7 +482,7 @@ Ustanovenie upravuje opačný pól vzťahu dôvery medzi národnou radou a vlád
 
 ### § 110
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrhy kandidátov na predsedu a podpredsedov najvyššieho kontrolného úradu môžu podávať poslanci, a to písomne, predsedovi národnej rady najneskôr do desiatich dní pred určeným dňom voľby (§ 111). Súčasťou návrhu je prehľad o vzdelaní a praxi navrhovaných a ich písomný súhlas s kandidatúrou.
 >
 > (2) Za predsedu a podpredsedu najvyššieho kontrolného úradu je zvolený kandidát, ktorý získal v hlasovaní68) nadpolovičnú väčšinu hlasov prítomných poslancov.
@@ -497,14 +497,14 @@ Ustanovenie otvára trinástu časť zákona upravujúcu vzťah národnej rady a
 
 ### § 111
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Voľby predsedu a podpredsedov najvyššieho kontrolného úradu sa konajú najneskôr 30 dní pred uplynutím ich funkčného obdobia. Deň voľby predsedu a podpredsedov najvyššieho kontrolného úradu určuje predseda národnej rady.
 
 Ustanovenie zakotvuje časový rámec konania volieb predsedu a podpredsedov Najvyššieho kontrolného úradu, ktorý má zabezpečiť personálnu kontinuitu vedenia tejto kontrolnej inštitúcie. Voľby sa musia konať najneskôr 30 dní pred uplynutím funkčného obdobia doterajších funkcionárov, čím sa vytvára dostatočný časový priestor na to, aby noví funkcionári mohli nastúpiť bezprostredne po skončení funkčného obdobia svojich predchodcov bez medzery vo výkone tejto funkcie. Konkrétny deň konania voľby v rámci tohto zákonného rámca určuje predseda národnej rady, čo mu dáva organizačnú právomoc zosúladiť termín voľby s harmonogramom schôdzí národnej rady pri rešpektovaní zákonom stanovenej hornej hranice lehoty.
 
 ### § 112
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrh na odvolanie predsedu a podpredsedu najvyššieho kontrolného úradu69) môžu podávať poslanci; návrhy sa podávajú predsedovi národnej rady, ktorý ich predloží národnej rade na jej najbližšej schôdzi. Návrhy musia byť podané písomne a odôvodnené. Predsedovi alebo podpredsedovi najvyššieho kontrolného úradu sa musí umožniť vyjadriť sa o návrhu na jeho odvolanie.
 >
 > (2) Návrh na odvolanie predsedu a podpredsedu najvyššieho kontrolného úradu je schválený, ak zaň hlasovala nadpolovičná väčšina prítomných poslancov.
@@ -513,7 +513,7 @@ Ustanovenie upravuje procesný postup odvolávania predsedu alebo podpredsedu Na
 
 ### § 114
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Najvyšší kontrolný úrad predkladá národnej rade správu o výsledkoch svojej kontrolnej činnosti za uplynulý kalendárny rok do konca marca a vždy, keď o to národná rada požiada.70)
 
 Ustanovenie zakotvuje informačnú a zodpovednostnú väzbu medzi Najvyšším kontrolným úradom a národnou radou formou pravidelnej výročnej správy o výsledkoch kontrolnej činnosti, ktorá sa predkladá vždy do konca marca za predchádzajúci kalendárny rok - táto pevná lehota zabezpečuje, že národná rada má k dispozícii aktuálny prehľad o výsledkoch kontrolnej práce úradu v pravidelných ročných intervaloch. Popri tejto pravidelnej správe zákon zakotvuje aj mimoriadnu, na žiadosť viazanú povinnosť predloženia správy kedykoľvek o to národná rada požiada, čo dopĺňa pravidelný ročný cyklus flexibilnou možnosťou operatívneho vyžiadania informácií o kontrolnej činnosti mimo štandardného termínu, napríklad v súvislosti s aktuálne prejednávanou témou verejného záujmu.
@@ -522,7 +522,7 @@ Ustanovenie zakotvuje informačnú a zodpovednostnú väzbu medzi Najvyšším k
 
 ### § 115
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Národná rada navrhuje prezidentovi republiky dvojnásobný počet kandidátov na sudcov ústavného súdu,71) ktorých má prezident republiky vymenovať; navrhnutí sú tí kandidáti, ktorí získajú najviac hlasov, najmenej však trojpätinovú väčšinu všetkých poslancov a v novej voľbe a každej ďalšej voľbe aspoň nadpolovičnú väčšinu všetkých poslancov.
 >
 > (2) Ak sa podľa odseku 1 nenavrhne dvojnásobný počet kandidátov na sudcov ústavného súdu, voľba ďalších kandidátov do uvedeného počtu sa opakuje.
@@ -535,7 +535,7 @@ Ustanovenie otvára štrnástu časť zákona a upravuje osobitný, ústavne cit
 
 ### § 116
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak sa sudca ústavného súdu vzdá svojej funkcie sudcu ústavného súdu alebo ak je z tejto funkcie odvolaný, prezident republiky vymenuje iného sudcu ústavného súdu na nové funkčné obdobie z dvoch kandidátov navrhnutých národnou radou.73)
 >
 > (2) Na postup pri navrhovaní a voľbe kandidátov podľa odseku 1 sa primerane použijú ustanovenia § 115 a 116a.
@@ -544,7 +544,7 @@ Ustanovenie upravuje osobitný postup obsadzovania uvoľneného miesta sudcu ús
 
 ### § 116a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Voľbu kandidáta na sudcu ústavného súdu vyhlasuje predseda národnej rady šesť mesiacov pred uplynutím funkčného obdobia sudcu ústavného súdu alebo pred zánikom funkcie sudcu ústavného súdu podľa čl. 138 ods. 3 ústavy a bezodkladne po zániku funkcie sudcu ústavného súdu v ostatných prípadoch; zároveň uvedie náležitosti vyžadované pre kandidáta na sudcu ústavného súdu. Súčasťou návrhu na voľbu kandidáta na sudcu ústavného súdu je navrhnutým kandidátom podpísaný životopis, ktorý obsahuje prehľad doterajšej právnej praxe, výsledky vedeckej, publikačnej, pedagogickej, justičnej alebo inej právnej odbornej činnosti. K návrhu sa pripojí súhlas navrhnutého kandidáta s návrhom na voľbu, čestné vyhlásenie o pravdivosti ním uvedených údajov.
 >
 > (2) Ústavnoprávny výbor prerokúva návrhy na voľbu kandidátov na sudcu ústavného súdu na verejnej schôdzi, na ktorej umožní každému navrhnutému kandidátovi na sudcu ústavného súdu vystúpiť bez účasti ostatných navrhnutých kandidátov.
@@ -563,7 +563,7 @@ Ustanovenie podrobne upravuje transparentný a verejne kontrolovateľný proces 
 
 ### § 117
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Voľbu člena Súdnej rady Slovenskej republiky (ďalej len „súdna rada“) vyhlasuje predseda národnej rady a zároveň určí termín, dokedy mu poslanci podávajú písomne odôvodnené návrhy na voľbu tohto člena; predseda národnej rady pridelí návrhy na prerokovanie ústavnoprávnemu výboru. Súčasťou návrhu na voľbu člena súdnej rady je navrhnutým kandidátom podpísaný životopis, ktorý obsahuje prehľad doterajšej právnej praxe, výsledky vedeckej, publikačnej, pedagogickej, justičnej alebo inej právnej odbornej činnosti. K návrhu sa pripojí súhlas navrhnutého kandidáta s návrhom na voľbu a čestné vyhlásenie o pravdivosti ním uvedených údajov.
 >
 > (2) Ústavnoprávny výbor prerokúva návrhy na voľbu členov súdnej rady na verejnej schôdzi, na ktorej umožní každému navrhnutému kandidátovi vystúpiť bez účasti ostatných navrhnutých kandidátov.
@@ -580,7 +580,7 @@ Ustanovenie otvára pätnástu časť zákona a upravuje výberové konanie na f
 
 ### § 118
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Za člena súdnej rady je zvolený kandidát, ktorý získal vo voľbe nadpolovičnú väčšinu hlasov prítomných poslancov.
 >
 > (2) Ak člen súdnej rady nebol zvolený, vykoná sa opakovaná voľba.
@@ -593,7 +593,7 @@ Ustanovenie upravuje samotný hlasovací mechanizmus voľby člena súdnej rady,
 
 ### § 119
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrh na odvolanie člena súdnej rady môže písomne podať najmenej pätina poslancov. Návrh sa podáva ústavnoprávnemu výboru, ktorý ho so svojím stanoviskom predloží predsedovi národnej rady. Predseda národnej rady predloží návrh na odvolanie člena súdnej rady so stanoviskom ústavnoprávneho výboru na program najbližšej schôdze národnej rady. Členovi súdnej rady musí byť umožnené vyjadriť sa o návrhu na jeho odvolanie.
 >
 > (2) Návrh na odvolanie člena súdnej rady je schválený, ak zaň hlasovala nadpolovičná väčšina prítomných poslancov.
@@ -604,7 +604,7 @@ Ustanovenie upravuje odvolávanie člena súdnej rady, ktoré je procesným náp
 
 ### § 123
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Podanie návrhu na voľbu kandidáta na generálneho prokurátora upravuje osobitný predpis.74) Návrh sa podáva ústavnoprávnemu výboru, ktorý ho predloží so svojím stanoviskom predsedovi národnej rady. Predseda národnej rady navrhne zaradenie voľby kandidáta na generálneho prokurátora na najbližšiu schôdzu národnej rady.
 >
 > (2) Kandidáta na vymenovanie generálneho prokurátora navrhuje prezidentovi republiky národná rada.
@@ -621,7 +621,7 @@ Ustanovenie otvára šestnástu časť zákona a upravuje postup, ktorým národ
 
 ### § 124
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrh na odvolanie generálneho prokurátora môže písomne podať najmenej pätina poslancov. Návrh sa podáva ústavnoprávnemu výboru, ktorý ho so svojím stanoviskom predloží predsedovi národnej rady. Predseda národnej rady navrhne návrh na odvolanie generálneho prokurátora so stanoviskom ústavnoprávneho výboru na program najbližšej schôdze národnej rady. Generálnemu prokurátorovi musí byť umožnené vyjadriť sa k návrhu na jeho odvolanie.
 >
 > (2) Návrh na odvolanie generálneho prokurátora je schválený, ak zaň hlasovala nadpolovičná väčšina prítomných poslancov. Návrh na odvolanie generálneho prokurátora podáva národná rada prezidentovi republiky.
@@ -630,7 +630,7 @@ Ustanovenie upravuje postup odvolávania generálneho prokurátora, ktorý je š
 
 ### § 125
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Voľbu kandidáta na generálneho prokurátora vyhlasuje predseda národnej rady, ktorý zároveň uvedie náležitosti vyžadované pre kandidáta na generálneho prokurátora. Súčasťou návrhu na voľbu kandidáta na generálneho prokurátora je navrhnutým kandidátom podpísaný životopis, ktorý obsahuje prehľad doterajšej právnej praxe, výsledky vedeckej, publikačnej, pedagogickej, justičnej alebo inej právnej odbornej činnosti. K návrhu sa pripojí súhlas navrhnutého kandidáta s návrhom na voľbu, čestné vyhlásenie o pravdivosti ním uvedených údajov.
 >
 > (2) Ústavnoprávny výbor prerokúva návrhy na voľbu kandidátov na generálneho prokurátora na verejnej schôdzi, na ktorej umožní každému navrhnutému kandidátovi na generálneho prokurátora vystúpiť bez účasti ostatných navrhnutých kandidátov.
@@ -649,7 +649,7 @@ Ustanovenie podrobne rozpracúva výberové konanie na kandidáta na generálneh
 
 ### § 126
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Národná rada volí a odvoláva iných funkcionárov, ak to ustanoví zákon.
 >
 > (2) Návrhy podľa odseku 1 podáva vláda, poslanci alebo výbory, ak osobitný zákon neustanoví inak. Návrhy predkladá národnej rade príslušný výbor.
@@ -664,14 +664,14 @@ Ustanovenie otvára sedemnástu časť zákona a plní funkciu všeobecného, za
 
 ### § 127
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Národná rada, výbory alebo poslanci vykonávajú kontrolnú činnosť v rozsahu pôsobnosti vymedzenej osobitnými predpismi80) a týmto zákonom.
 
 Ustanovenie otvára poslednú, osemnástu časť zákona zahrnutú do tejto kapitoly a formuluje všeobecný rámcový princíp kontrolnej činnosti národnej rady. Zdôrazňuje, že túto kontrolnú funkciu môže vykonávať tak samotné plénum národnej rady, ako aj jej výbory, ako aj jednotliví poslanci - ide teda o viacúrovňový systém kontroly zahŕňajúci tak kolektívne orgány, ako aj individuálne oprávnenia (napríklad poslanecký prieskum podľa § 63a). Rozsah tejto kontrolnej pôsobnosti pritom nie je vymedzený výlučne rokovacím poriadkom - ustanovenie výslovne odkazuje aj na osobitné predpisy, ktoré môžu kontrolnú pôsobnosť národnej rady, jej výborov alebo poslancov rozširovať alebo konkretizovať mimo rámca tohto zákona, čo zodpovedá skutočnosti, že kontrolné oprávnenia parlamentu sú roztrúsené naprieč viacerými právnymi predpismi upravujúcimi jednotlivé oblasti verejnej správy a kontrolované subjekty.
 
 ### § 128
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Správy
 >
 > (1) Národná rada môže od vlády, vedúcich ústredných orgánov a vyšších štátnych funkcionárov žiadať správy o otázkach patriacich do ich pôsobnosti; správu musia podať do 30 dní alebo v inej lehote určenej národnou radou, ktorá nemôže byť kratšia ako 15 dní.

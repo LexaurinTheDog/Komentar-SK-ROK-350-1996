@@ -2,7 +2,7 @@
 
 ### § 129
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Interpeláciou sa na účely tohto zákona rozumie kvalifikovaná otázka, ktorá sa vzťahuje na uplatňovanie a vykonávanie zákonov, plnenie programového vyhlásenia vlády a uznesení národnej rady vládou a jej členmi.
 > (2) Poslanec môže interpelovať vládu, člena vlády alebo vedúceho iného ústredného orgánu štátnej správy vo veciach ich pôsobnosti.
 > (3) Interpelácia sa podáva písomne predsedovi národnej rady, ktorý ju zašle interpelovanému a predsedovi vlády.
@@ -12,7 +12,7 @@ Ustanovenie zavádza legálnu definíciu interpelácie ako jedného z kľúčov�
 
 ### § 130
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Interpelovaný je povinný písomne odpovedať na interpeláciu do 30 dní interpelujúcemu a predsedovi národnej rady. Svoju odpoveď môže predniesť aj ústne v rámci bodu programu schôdze národnej rady určeného na interpelácie; ústne prednesenie odpovede na interpeláciu nezbavuje interpelovaného povinnosti podať odpoveď písomne.
 > (2) Ak národná rada vyhlási interpeláciu za naliehavú, určí na odpoveď lehotu, ktorá nesmie byť kratšia ako 15 dní.
 > (3) Písomná interpelácia a odpoveď na interpeláciu sa zverejňujú na webovom sídle národnej rady.
@@ -25,7 +25,7 @@ Toto ustanovenie dotvára procesný rámec interpelačného konania a je jadrom 
 
 ### § 131
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Hodina otázok
 > (1) Do programu schôdze národnej rady zvolanej podľa § 17 ods. 1 sa zaradí hodina otázok, v ktorej odpovedajú členovia vlády, generálny prokurátor a predseda najvyššieho kontrolného úradu na aktuálne otázky, najmä z ich pôsobnosti, ktoré písomne položili poslanci do 12. hodiny dňa, ktorý predchádza dňu tohto bodu programu.
 > (2) Národná rada môže rozhodnúť, že na hodine otázok sa bude diskutovať len o určitom probléme.
@@ -40,7 +40,7 @@ Hodina otázok je popri interpelácii druhým základným nástrojom priebežnej
 
 ### § 132
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podnety a pripomienky poslancov
 > (1) Na schôdzach výborov môžu poslanci podávať podnety a pripomienky členom vlády vo veciach ich pôsobnosti.
 > (2) Ak sa podnety a pripomienky poslancov počas rokovania výboru nevysvetlili, zašle ich predseda výboru príslušným členom vlády a požiada ich, aby do 30 dní oznámili, aké opatrenia na ich základe prijali. S týmito opatreniami sa poslanci oboznámia na ďalšej schôdzi výboru.
@@ -49,7 +49,7 @@ Tretím, najmenej formalizovaným nástrojom kontroly výkonnej moci je inštit�
 
 ### § 133
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Petície doručené národnej rade, jej výborom, predsedovi a podpredsedom národnej rady sa odovzdávajú kancelárii, ktorá vedie ich evidenciu. Predseda národnej rady postúpi petíciu gestorskému výboru, ktorý ju prerokuje a zaujme k nej stanovisko. Ak petícia patrí do pôsobnosti viacerých výborov, príslušný výbor pôsobí na koordináciu jej vybavenia.
 > (2) Ak petícia nepatrí do pôsobnosti národnej rady, kancelária ju postúpi na vybavenie príslušnému ministerstvu alebo inému ústrednému orgánu štátnej správy.
 > (3) Petíciu, ktorú podpísalo aspoň 100 000 občanov, prerokuje národná rada.
@@ -58,7 +58,7 @@ Devätnásta časť zákona upravuje vybavovanie petícií ako realizáciu ústa
 
 ### § 134
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Výbory podávajú aspoň raz za kalendárny rok národnej rade správu o petíciách doručených podľa § 133 ods. 1.
 > (2) Do petícií a ich evidencie môže každý poslanec kedykoľvek nazrieť.
 
@@ -66,7 +66,7 @@ Ustanovenie dopĺňa procesný rámec vybavovania petícií o dva kontrolné mec
 
 ### § 135
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Poslanec podlieha disciplinárnej právomoci národnej rady za
 > a) výroky pri výkone funkcie poslanca prednesené v národnej rade alebo v jej orgáne,
 > b) porušenie zákazu zastúpenia pri hlasovaní (§ 39 ods. 6),
@@ -78,7 +78,7 @@ Dvadsiata časť zákona zavádza disciplinárnu právomoc národnej rady voči 
 
 ### § 136
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Disciplinárne konanie sa začína v mandátovom a imunitnom výbore.
 > (2) Návrh na začatie disciplinárneho konania môže podať
 > a) orgán národnej rady alebo poslanec, ktorý sa cíti urazený výrokom, ktorý predniesol poslanec pri výkone svojej funkcie v národnej rade alebo v jej orgáne,
@@ -92,7 +92,7 @@ Ustanovenie koncentruje disciplinárnu právomoc do rúk jediného výboru - man
 
 ### § 137
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Mandátový a imunitný výbor v disciplinárnom konaní zisťuje všetky skutočnosti, na ktorých základe sa vedie proti poslancovi disciplinárne konanie.
 > (2) Poslanec, proti ktorému sa vedie disciplinárne konanie, má právo oboznámiť sa so všetkými písomnosťami slúžiacimi ako podklad na rozhodovanie mandátového a imunitného výboru a vyjadriť sa o nich.
 > (3) Z rokovania mandátového a imunitného výboru v disciplinárnom konaní sú vylúčené iné osoby než členovia tohto výboru, navrhovateľ, poslanec, proti ktorému sa konanie vedie, a tajomník výboru.
@@ -102,7 +102,7 @@ Toto ustanovenie garantuje základné procesné záruky spravodlivého disciplin
 
 ### § 138
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Mandátový a imunitný výbor po konaní podľa § 137 rozhodne o uložení disciplinárneho opatrenia alebo o zastavení disciplinárneho konania.
 > (2) Ak návrh o uložení disciplinárneho opatrenia alebo zastavení disciplinárneho konania nezískal nadpolovičnú väčšinu hlasov prítomných poslancov mandátového a imunitného výboru, konanie sa zastavuje.
 > (3) Disciplinárne konanie možno začať a disciplinárne opatrenie možno uložiť do jedného roka odo dňa, v ktorom došlo k disciplinárnemu previneniu.
@@ -111,7 +111,7 @@ Ustanovenie upravuje výsledok disciplinárneho konania a jeho časové obmedzen
 
 ### § 139
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak mandátový a imunitný výbor zistí, že poslanec svojím výrokom pri výkone funkcie poslanca predneseným v národnej rade alebo v jej orgáne urazil orgán národnej rady alebo poslanca, alebo iného ústavného činiteľa, a ak samo prerokovanie veci nepostačuje, odporučí mu, aby sa na najbližšej schôdzi národnej rady ospravedlnil; dĺžka vystúpenia poslanca s ospravedlnením je najviac 2 minúty. Ak to poslanec neurobí, mandátový a imunitný výbor bezodkladne postúpi vec národnej rade s návrhom na uznesenie. Národná rada môže poslancovi uložiť pokutu vo výške 1 000 eur.
 > (2) Ak mandátový a imunitný výbor zistí, že poslanec hlasoval za iného poslanca, odporučí národnej rade, aby mu udelila pokarhanie a pokutu vo výške 1 000 eur.
 > (3) Ak mandátový a imunitný výbor zistí, že poslanec závažným spôsobom porušil poslanecký sľub alebo porušil zákaz hlasovania za iného poslanca, odporučí národnej rade, aby poslancovi navrhla vzdať sa funkcie poslanca.
@@ -123,21 +123,21 @@ Kľúčové ustanovenie disciplinárneho konania konkretizuje sankčný katalóg
 
 ### § 139a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak konanie poslanca, ktoré je priestupkom, prejednal alebo prejednáva orgán príslušný na prejednanie priestupku, poslanca za toto konanie už nemožno disciplinárne stíhať.
 
 Ustanovenie rieši kolíziu medzi disciplinárnou zodpovednosťou poslanca podľa tohto zákona a jeho priestupkovou zodpovednosťou podľa osobitných predpisov v prípadoch, keď sa skutok kvalifikačne prekrýva - teda keď je konanie poslanca súčasne disciplinárnym previnením aj priestupkom. Zákon uplatňuje zásadu zákazu dvojitého postihu (ne bis in idem) v modifikovanej podobe: ak vecne príslušný priestupkový orgán skutok už prejednal alebo ho práve prejednáva, disciplinárne stíhanie za to isté konanie je vylúčené. Rozhodujúcou skutočnosťou je tu časová priorita - stačí, že priestupkové konanie už prebieha, nie je nutné čakať na jeho právoplatné skončenie, aby sa disciplinárne stíhanie stalo neprípustným. Táto úprava chráni poslanca pred súbežným alebo následným dvojitým postihom za identický skutok dvoma odlišnými sankčnými mechanizmami a zároveň rešpektuje prednosť špecializovaného priestupkového konania pred vnútroparlamentným disciplinárnym konaním tam, kde sa ich vecná pôsobnosť prekrýva.
 
 ### § 140
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak príslušný orgán oznámi predsedovi národnej rady a predsedovi mandátového a imunitného výboru, že poslanec bol pristihnutý a zadržaný pri trestnom čine, predseda mandátového a imunitného výboru neodkladne zvolá mandátový a imunitný výbor. Mandátový a imunitný výbor rozhodne o žiadosti o vydanie súhlasu na zadržanie poslanca.
 
 Dvadsiata prvá časť zákona upravuje osobitné parlamentné konanie súvisiace s trestnoprávnym postihom poslancov, ktoré nadväzuje na ústavnú úpravu poslaneckej imunity. Toto ustanovenie sa týka najurgentnejšej situácie - prípadu, keď bol poslanec pristihnutý priamo pri páchaní trestného činu a v dôsledku toho zadržaný. Zákon v tomto prípade zavádza zrýchlený procesný mechanizmus: po oznámení tejto skutočnosti predsedovi národnej rady a predsedovi mandátového a imunitného výboru príslušným orgánom činným v trestnom konaní musí predseda výboru neodkladne, teda bez zbytočného odkladu, zvolať mandátový a imunitný výbor, ktorý následne rozhodne o žiadosti o vydanie súhlasu na zadržanie poslanca. Naliehavosť postupu je daná samotnou povahou zadržania ako dočasného obmedzenia osobnej slobody, ktoré si vyžaduje rýchle parlamentné potvrdenie alebo odmietnutie, aby nedochádzalo k neprimeranému zásahu do výkonu poslaneckého mandátu bez adekvátnej ústavnej kontroly, ale súčasne aby sa nebránilo riadnemu trestnému konaniu v prípade, keď je poslanec pristihnutý priamo pri páchaní trestného činu.
 
 ### § 141
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak príslušný orgán oznámi predsedovi národnej rady, že žiada národnú radu o vydanie súhlasu na vzatie poslanca do väzby, predseda národnej rady požiada o zvolanie mandátového a imunitného výboru.
 > (2) Mandátový a imunitný výbor prerokuje žiadosť príslušného orgánu podanú podľa odseku 1. Poslancovi, ktorého sa žiadosť týka, umožní zúčastniť sa na rokovaní výboru a vyjadriť sa o žiadosti.
 > (3) Mandátový a imunitný výbor predkladá správu o výsledku svojich zistení a návrh na uznesenie národnej rade.
@@ -146,14 +146,14 @@ Na rozdiel od § 140, ktorý rieši okamžité zadržanie pri páchaní trestné
 
 ### § 142
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Národná rada po oboznámení sa so žiadosťou (§ 141 ods. 1) a na základe predloženej správy mandátového a imunitného výboru o výsledku jeho zistení (§ 141 ods. 3) rozhodne, či vydá súhlas na vzatie poslanca do väzby. Národná rada rozhodne o žiadosti na najbližšej schôdzi po predložení správy mandátového a imunitného výboru odo dňa, keď túto žiadosť predseda národnej rady dostal.
 
 Ustanovenie uzatvára konanie o vydaní súhlasu na vzatie poslanca do väzby prenesením konečného rozhodovacieho oprávnenia na plénum národnej rady. Národná rada rozhoduje na základe dvoch podkladov - samotnej žiadosti príslušného orgánu podľa § 141 ods. 1 a správy mandátového a imunitného výboru o výsledku jeho zistení podľa § 141 ods. 3 - pričom výsledkom je rozhodnutie, či súhlas na vzatie do väzby vydá, alebo nie. Zákon zároveň stanovuje záväzný časový rámec pre samotné rozhodnutie pléna: národná rada musí o žiadosti rozhodnúť na najbližšej schôdzi nasledujúcej po predložení správy výboru, počítanej odo dňa, keď žiadosť predseda národnej rady prevzal. Toto pravidlo bráni prieťahom pri rozhodovaní o osobnej slobode poslanca a zároveň o oprávnenosti trestného stíhania sprevádzaného väzobným návrhom, čím sa vyvažuje ochrana poslaneckej imunity s požiadavkou na riadny priebeh trestného konania bez zbytočných omeškaní spôsobených parlamentnou nečinnosťou.
 
 ### § 143
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Kancelária národnej rady
 > (1) Kancelária je štátna rozpočtová organizácia. Plní odborné, organizačné a technické úlohy spojené so zabezpečovaním činnosti národnej rady, jej výborov, osobitných kontrolných výborov a komisií vrátane parlamentnej dokumentácie a tlačovej služby; plní tiež úlohy spojené s činnosťou Parlamentnej rady Slovenskej republiky. Na zabezpečenie činnosti národnej rady v záležitostiach Európskej únie Kancelária Národnej rady Slovenskej republiky môže zriaďovať pracoviská v zahraničí.
 > (2) Kancelária plní aj úlohy, ktoré pre ňu vyplývajú z iných právnych predpisov, najmä v pracovnoprávnych vzťahoch, správe a ochrane majetku štátu, používaní prostriedkov štátneho rozpočtu, ako správca rozpočtovej kapitoly. Kancelária sa na účely ochrany a spracúvania osobných údajov považuje za prevádzkovateľa podľa osobitných predpisov. Osobné údaje osôb prítomných na rokovaní orgánov národnej rady sa spracúvajú v rozsahu meno, priezvisko, pracovné alebo iné zaradenie, hlas a obrazová podobizeň. Kancelária prevádzkuje na webovom sídle národnej rady verejne dostupný archív, v ktorom sú trvalo prístupné verejne dostupné audiovizuálne záznamy z verejnej schôdze národnej rady a výboru vyhotovené podľa § 19 a 51.
@@ -173,7 +173,7 @@ Dvadsiata druhá časť zákona upravuje organizačné zabezpečenie činnosti n
 
 ### § 144
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Parlamentný inštitút
 > (1) Parlamentný inštitút ako súčasť kancelárie plní informačné a vzdelávacie úlohy súvisiace s činnosťou národnej rady a jej poslancov.
 > (2) Podrobnosti o Parlamentnom inštitúte upraví organizačný poriadok kancelárie.
@@ -182,7 +182,7 @@ Ustanovenie zriaďuje Parlamentný inštitút ako organizačnú zložku kancelá
 
 ### § 144a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Parlamentná stráž
 > (1) Na ochranu poriadku a bezpečnosti v budove národnej rady, vrátane zabezpečenia poriadku v rokovacej sále (§ 32), a tam, kde národná rada rokuje, sa zriaďuje Parlamentná stráž. Parlamentná stráž je oprávnená na zabezpečenie poriadku v rokovacej sále vstúpiť do rokovacej sály na výzvu predsedu národnej rady alebo podpredsedu národnej rady, a to v prípade bezprostredného ohrozenia života alebo zdravia osôb v rokovacej sále alebo hroziacej škody na majetku; ak predseda národnej rady alebo podpredseda národnej rady nie je v týchto prípadoch v rokovacej sále prítomný alebo okolnosti mu neumožňujú výzvu uskutočniť, Parlamentná stráž je oprávnená vstúpiť aj bez jeho výzvy. Ustanovenie § 32 ods. 2 nie je dotknuté.
 > (2) Úlohy, organizáciu a riadenie Parlamentnej stráže, práva a povinnosti jej príslušníkov ustanoví osobitný zákon.
@@ -191,7 +191,7 @@ Ustanovenie zriaďuje Parlamentnú stráž ako bezpečnostný zbor poverený och
 
 ### § 145
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Všetky písomnosti, najmä podklady na rokovanie schôdze národnej rady, sa poslancom doručujú elektronickými prostriedkami. Pozvánka na schôdzu národnej rady sa poslancovi doručuje elektronicky aj na jeho e-mailovú adresu.
 > (2) Termínom doručenia je deň zverejnenia písomnosti na webovom sídle národnej rady.
 
@@ -199,7 +199,7 @@ Dvadsiata tretia časť zákona obsahuje spoločné, prechodné a záverečné u
 
 ### § 146
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak sa počas schôdze národnej rady vyskytne pochybnosť o postupe podľa tohto zákona, rozhoduje v jednotlivých prípadoch predsedajúci. Na návrh poslanca národná rada rozhodne bez rozpravy o tom, že predsedajúci rozhodne o pochybnosti o postupe podľa tohto zákona až po predchádzajúcom stanovisku ústavnoprávneho výboru. Ak sa v čase medzi konaním schôdzí národnej rady vyskytne pochybnosť o postupe podľa tohto zákona, rozhoduje v jednotlivých prípadoch predseda národnej rady; pred rozhodnutím si môže vyžiadať stanovisko ústavnoprávneho výboru.
 > (2) Ak počas schôdze národnej rady nastane situácia, ktorá vyžaduje zabezpečenie poriadku v rokovacej sále, predsedajúci môže prerušiť schôdzu národnej rady; predseda národnej rady v tomto prípade zvolá poslanecké grémium bezodkladne.
 
@@ -207,7 +207,7 @@ Ustanovenie rieši výkladové medzery a sporné situácie vznikajúce pri aplik
 
 ### § 147
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) V novom volebnom období nemožno prerokovať návrhy, ktoré boli národnej rade alebo jej orgánom doručené v predchádzajúcom volebnom období; to sa nevzťahuje na petície a podania, ktoré sa vybavujú podľa osobitných predpisov a ktoré môže vo svojej pôsobnosti vybaviť predseda národnej rady alebo kancelária.
 > (2) Ak došlo k strate mandátu poslanca, k neuplatňovaniu mandátu poslanca alebo k zániku mandátu poslanca, nemožno prerokovať návrhy, ktoré podal.
 
@@ -215,7 +215,7 @@ Ustanovenie zakotvuje zásadu diskontinuity legislatívneho procesu medzi jednot
 
 ### § 148
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pokuty uložené podľa § 139 ods. 1, 2, 4 a 5 sú príjmom štátneho rozpočtu.
 > (2) Ak poslanec neuhradí pokutu do 15 dní odo dňa jej uloženia, kancelária vykoná jej úhradu zrážkou z platu poslanca.
 
@@ -223,7 +223,7 @@ Ustanovenie doplňuje finančno-právny rámec disciplinárnych pokút ukladaný
 
 ### § 149
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Výdavky súvisiace s činnosťou národnej rady, jej výborov, osobitných kontrolných výborov, komisií a poslancov sa uhrádzajú z rozpočtu kancelárie. To sa nevzťahuje na výdavky, ktoré si poslanci uhrádzajú sami z paušálnych náhrad určených národnou radou podľa osobitného predpisu.
 > (2) Osoby prizvané na schôdzu výboru, osobitného kontrolného výboru alebo komisie si môžu uplatniť do troch dní u ich predsedu nárok na úhradu preukázaných výdavkov a ušlého zárobku, inak nárok zaniká. Predseda výboru, osobitného kontrolného výboru alebo komisie upozorní prizvané osoby na ich nárok a lehotu jeho uplatnenia.
 > (3) Podrobnosti o odmeňovaní členov Komisie pre tvorbu práva ústavnoprávneho výboru (§ 59 ods. 2) upraví národná rada uznesením.
@@ -232,14 +232,14 @@ Ustanovenie upravuje financovanie prevádzkových výdavkov spojených s činnos
 
 ### § 150
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrhy zákonov a zásad zákonov predložených národnej rade pred účinnosťou tohto zákona sa prerokujú podľa doterajších predpisov.
 
 Toto prechodné ustanovenie rieši prvotnú intertemporálnu otázku prechodu z predchádzajúcej právnej úpravy rokovacieho poriadku (zákona Slovenskej národnej rady č. 44/1989 Zb., zrušeného v § 151) na nový zákon č. 350/1996 Z. z. Zákonodarca zvolil zásadu, podľa ktorej sa rozpracovaná legislatívna agenda - návrhy zákonov a zásad zákonov predložené národnej rade ešte pred nadobudnutím účinnosti tohto zákona - neprevádza automaticky pod nový procesný režim, ale naďalej sa prerokúva podľa dovtedy platných predpisov. Táto úprava chráni procesnú kontinuitu a právnu istotu navrhovateľov aj samotného legislatívneho procesu, ktorý by inak musel byť pri zmene procesných pravidiel uprostred prerokúvania konkrétneho návrhu komplikovane "prepínaný" medzi dvomi odlišnými procesnými režimami. Ide o typický a legislatívne bežný spôsob riešenia prechodu medzi starou a novou procesnou úpravou.
 
 ### § 150a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2016
 > Návrhy zákonov predložené národnej rade pred 1. januárom 2016 sa prerokujú podľa predpisov účinných do 31. decembra 2015.
 
@@ -247,7 +247,7 @@ Ustanovenie predstavuje prvé z rady postupne pridávaných prechodných ustanov
 
 ### § 150b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. mája 2019
 > Náležitosti návrhu zákona predloženého národnej rade pred 1. májom 2019 sa posudzujú podľa § 68 ods. 3 v znení účinnom do 30. apríla 2019.
 
@@ -255,7 +255,7 @@ Toto prechodné ustanovenie je užšie vymedzené než predchádzajúce - netýk
 
 ### § 150c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 15. novembra 2018
 > Pri voľbe sudcov ústavného súdu podľa zákona účinného od 15. novembra 2018 na voľné miesta sudcov ústavného súdu uvoľnené v roku 2019 je lehota podľa § 116a ods. 5 15 dní.
 
@@ -263,7 +263,7 @@ Toto prechodné ustanovenie sa vzťahuje na osobitný, časovo aj vecne úzko vy
 
 ### § 150d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. januára 2021
 > Ustanovenia § 117 a 118 v znení účinnom od 1. januára 2021 sa prvýkrát použijú pri voľbe členov súdnej rady vyhlásenej po 31. decembri 2020.
 
@@ -271,7 +271,7 @@ Toto prechodné ustanovenie rieši časovú pôsobnosť novelizovaných § 117 a
 
 ### § 150e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. septembra 2021
 > Kancelária zabezpečí rokovanie výboru podľa § 60a najneskôr od 1. októbra 2021. Verejná schôdza výboru podľa § 60a sa môže uskutočniť až po tom, ako si výbor upraví v podrobnejších pravidlách rokovania výboru podrobnosti rokovania online formou.
 
@@ -279,7 +279,7 @@ Toto prechodné ustanovenie sprevádza zavedenie novej formy rokovania výboru p
 
 ### § 150f
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ustanovenia § 139 ods. 1 a 4 v znení účinnom od 1. septembra 2022 sa po prvýkrát použijú na disciplinárne konania začaté po 31. auguste 2022.
 > (2) Do prijatia osobitného zákona podľa § 144a ods. 2 zabezpečenie poriadku v rokovacej sále (§ 144a) a vyvedenie poslanca vykázaného podľa § 32 z rokovacej sály vykonáva príslušník Policajného zboru zaradený v službe ochrany určených osôb.
 
@@ -287,7 +287,7 @@ Ustanovenie obsahuje dve samostatné prechodné pravidlá súvisiace s novelou �
 
 ### § 150g
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenie k úpravám účinným od 1. mája 2023
 > Návrhy zákonov predložené národnej rade pred 1. májom 2023 sa prerokujú podľa predpisov účinných do 30. apríla 2023.
 
@@ -295,7 +295,7 @@ Toto prechodné ustanovenie zopakúva rovnaký vzorový princíp procesnej konti
 
 ### § 150h
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 15. mája 2026
 > (1) Náležitosti návrhu predloženého národnej rade pred 15. májom 2026 sa posudzujú podľa tohto zákona v znení účinnom do 14. mája 2026.
 > (2) Člen osobitného kontrolného výboru zvolený podľa tohto zákona v znení účinnom do 14. mája 2026 je členom osobitného kontrolného výboru podľa tohto zákona v znení účinnom od 15. mája 2026.
@@ -304,21 +304,21 @@ Toto zatiaľ posledné prechodné ustanovenie sprevádza novelu účinnú od 15.
 
 ### § 151
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušuje sa zákon Slovenskej národnej rady č. 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení zákona Slovenskej národnej rady č. 133/1990 Zb., zákonného opatrenia Predsedníctva Slovenskej národnej rady č. 246/1990 Zb., zákona Slovenskej národnej rady č. 268/1991 Zb., zákona Slovenskej národnej rady č. 28/1992 Zb. a nálezu Ústavného súdu Slovenskej republiky č. 2/1996 Z. z.
 
 Zrušovacie ustanovenie formálne ukončuje platnosť predchádzajúcej právnej úpravy rokovacieho poriadku - zákona Slovenskej národnej rady č. 44/1989 Zb., ktorý bol pôvodne prijatý ešte v predlistopadovom období a následne bol viackrát novelizovaný počas transformačného obdobia po roku 1989, ako to dokladá taxatívny výpočet jeho novelizačných predpisov (zákon č. 133/1990 Zb., zákonné opatrenie Predsedníctva SNR č. 246/1990 Zb., zákony č. 268/1991 Zb. a č. 28/1992 Zb.), pričom zákonodarca do výpočtu výslovne zahrnul aj nález Ústavného súdu Slovenskej republiky č. 2/1996 Z. z., ktorý zasiahol do znenia pôvodného zákona derogačným zásahom ústavného súdnictva. Explicitné uvedenie celého reťazca noviel a nálezu ústavného súdu v zrušovacom ustanovení sleduje legislatívno-technický cieľ - jednoznačne a bez pochybností vymedziť, ktoré presné znenie starého zákona sa k účinnosti nového zákona ruší, aby nezostali pochybnosti o rozsahu derogácie vo vzťahu k jednotlivým novelizačným vrstvám pôvodnej úpravy.
 
 ### § 151a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušuje sa zákon Slovenskej národnej rady č. 45/1989 Zb. o poslancoch Slovenskej národnej rady v znení zákona Slovenskej národnej rady č. 356/1990 Zb., zákona Slovenskej národnej rady č. 28/1992 Zb. a zákona č. 236/2012 Z. z.
 
 Doplňujúce zrušovacie ustanovenie sa vzťahuje na druhý predchádzajúci zákon upravujúci postavenie poslancov - zákon Slovenskej národnej rady č. 45/1989 Zb. o poslancoch Slovenskej národnej rady, ktorý bol samostatným predpisom vedľa rokovacieho poriadku a upravoval najmä otázky výkonu poslaneckého mandátu, práva a povinnosti poslancov. Skutočnosť, že toto ustanovenie bolo do zákona doplnené neskôr ako samostatný § 151a (na rozdiel od pôvodného § 151), naznačuje, že ide o dodatočnú legislatívnu úpravu prijatú v rámci niektorej z neskorších noviel, ktorou zákonodarca zjednotil právnu úpravu postavenia poslancov do jedného predpisu - rokovacieho poriadku - a súbežne s tým formálne zrušil pôvodný samostatný zákon o poslancoch vrátane jeho troch novelizácií (zákony č. 356/1990 Zb., č. 28/1992 Zb. a č. 236/2012 Z. z.). Rovnako ako pri § 151 ide o precízne vymedzenie rozsahu rušeného predpisu vrátane celého reťazca jeho noviel, čo je nevyhnutným predpokladom právnej istoty pri nahradení staršej právnej úpravy novou, konsolidovanou úpravou v jedinom zákone.
 
 ### § 152
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Tento zákon nadobúda účinnosť 1. januára 1997.
 > Michal Kováč v. r.
 > Ivan Gašparovič v. r.
